@@ -35,13 +35,13 @@ Tecnologias e Ferramentas Utilizadas
 - SEMS Portal para visualização dos dados
 ---
 ## 📝 Documentação
-📄 PDF com descrição completa da proposta:  
-`/pdf/SPRINT_1_Escola_Sustentavel.pdf`
+📄 PDF ja está anexado em SPRINT.pdf 
+
 📷 Imagens do projeto:  
-- `escola-diagrama.png`: diagrama visual da proposta  
-- `slide_apresentacao.png`: slide usado no vídeo pitch
+- diagrama visual da proposta está anexado em SPRINT foto.png 
+- slide usado no vídeo pitch está anexado em slide energias renovaveis.pdf
 🧪 Código simulado e lógica no Wokwi:  
-`/simulacao/wokwi_link.txt`
+  
 ---
 ## 📹 Vídeo Pitch
 🎥 *Disponível no YouTube (modo não listado)*  

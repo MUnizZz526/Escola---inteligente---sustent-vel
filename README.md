@@ -38,7 +38,7 @@ Tecnologias e Ferramentas Utilizadas
 📄 PDF ja está anexado em SPRINT.pdf 
 
 📷 Imagens do projeto:  
-- ![diagrama da Escola Automatizada] (SPRINT foto.png)
+- ![diagrama da Escola Automatizada] (SPRINT_foto.png)
 - ![slide de Apresentação] (imagens/slide_apresentacao.png) 
 🧪 Código simulado e lógica no Wokwi:  estão anexados em capturas de tela
   

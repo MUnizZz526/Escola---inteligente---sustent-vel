@@ -40,7 +40,7 @@ Tecnologias e Ferramentas Utilizadas
 📷 Imagens do projeto:  
 - diagrama visual da proposta está anexado em SPRINT foto.png 
 - slide usado no vídeo pitch está anexado em slide energias renovaveis.pdf
-🧪 Código simulado e lógica no Wokwi:  
+🧪 Código simulado e lógica no Wokwi:  estão anexados em capturas de tela
   
 ---
 ## 📹 Vídeo Pitch

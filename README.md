@@ -57,6 +57,9 @@ Um protótipo da automação foi desenvolvido e testado com **Arduino Uno** no s
 - ![Slide de Apresentação](./slide_energias_renovaveis.pdf)  
 
 💻 **Código e lógica:** Capturas de tela da simulação no Wokwi *(anexadas)*  
+- ![Logica Booleana](./logica_booleana.png).
+- ![Circuito Wokwi](./wokwi_circuito.png).
+- ![Codigo Wokwi](./wokwi_codigo.png). 
 
 ---
 

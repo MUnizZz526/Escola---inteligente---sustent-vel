@@ -54,7 +54,7 @@ Um protótipo da automação foi desenvolvido e testado com **Arduino Uno** no s
 
 📷 **Imagens do projeto**:  
 - ![Diagrama da Escola Automatizada](./sprint_foto.png)  
-- ![Slide de Apresentação](./imagens/slide_energias_renovaveis.pdf)  
+- ![Slide de Apresentação](./slide_energias_renovaveis.pdf)  
 
 💻 **Código e lógica:** Capturas de tela da simulação no Wokwi *(anexadas)*  
 

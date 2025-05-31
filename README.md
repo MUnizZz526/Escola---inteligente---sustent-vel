@@ -38,7 +38,7 @@ Tecnologias e Ferramentas Utilizadas
 📄 PDF ja está anexado em SPRINT.pdf 
 
 📷 Imagens do projeto:  
-- ![diagrama da Escola Automatizada] (SPRINT_foto.png)
+- ![diagrama da Escola Automatizada] (sprint_foto.png)
 - ![slide de Apresentação] (imagens/slide_energias_renovaveis.pdf) 
 🧪 Código simulado e lógica no Wokwi:  estão anexados em capturas de tela
   

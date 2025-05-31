@@ -1,57 +1,52 @@
-# Escola inteligente sustentável
-Projeto SPRINT 1 - Escola automatizada com energia solar
-Projeto desenvolvido para a SPRINT 1 da disciplina de Exploração de Energias Renováveis e Tecnologias Sustentáveis – FIAP  
-Turma: 1CCPI | 🧑‍🏫 Professor: Álvaro Alexandre Rezende Gonçalves
 
-Objetivo do Projeto
-Reduzir o consumo de energia elétrica em escolas públicas por meio da integração de **energia solar fotovoltaica**, **automação com sensores inteligentes** e **sistemas de monitoramento remoto**.
+garantindo conforto e economia energética.  
+- **Monitoramento Remoto**: Visualização de dados de desempenho e consumo via **SEMS Portal**, com integração futura a **dashboards personalizados (Node-RED / Blynk)** para análise e controle.  
+
 ---
-Integrantes
-- Cauã Ferreira Muniz  
-- Bernardo  
-- João Vitor Anceloti  
-- Matheus  
-- Rafael Ferreira
-  
- Proposta de Solução
-A proposta consiste em:
-- Instalação de **painéis solares** ligados a um **inversor híbrido GoodWe**, com possibilidade de uso de baterias inteligentes.
-- **Automação de iluminação e climatização** com sensores de presença (PIR) e luminosidade (LDR).
-- Controle por **lógica booleana**: (Movimento AND Escuro) OR Botão Manual.
-- Monitoramento e visualização via **SEMS Portal**, com futura integração a **dashboards (Node-RED/Blynk)**.
----
-Simulação no Wokwi
-Um protótipo da automação foi desenvolvido e testado com Arduino no simulador online Wokwi.
-Acesse aqui:  
+
+## 🔁 Simulação no Wokwi  
+
+Um protótipo da automação foi desenvolvido e testado com **Arduino Uno** no simulador online **Wokwi**.  
+🔗 Acesse a simulação:  
 [https://wokwi.com/projects/432385566733770753](https://wokwi.com/projects/432385566733770753)
----
-Tecnologias e Ferramentas Utilizadas
-- Painéis solares fotovoltaicos (GoodWe)
-- Inversor híbrido GW-ET / GW-ES
-- Arduino Uno (simulado via Wokwi)
-- Sensores PIR (presença), LDR (luz) e botão
-- Dashboards: Node-RED ou Blynk (previstos)
-- GitHub para versionamento e documentação
-- SEMS Portal para visualização dos dados
----
-## 📝 Documentação
-📄 PDF ja está anexado em SPRINT.pdf 
 
-📷 Imagens do projeto:  
-- ![diagrama da Escola Automatizada] (sprint_foto.png)
-- ![slide de Apresentação] (imagens/slide_energias_renovaveis.pdf) 
-🧪 Código simulado e lógica no Wokwi:  estão anexados em capturas de tela
-  
 ---
-## 📹 Vídeo Pitch
-🎥 *Disponível no YouTube (modo não listado)*  
-> *(Adicionar o link aqui quando estiver pronto)*
+
+## 🛠️ Tecnologias e Ferramentas Utilizadas  
+- **Energia**: Painéis solares fotovoltaicos (GoodWe), inversor híbrido GW-ET / GW-ES  
+- **Automação**: Arduino Uno (via Wokwi), sensores PIR, LDR e botão  
+- **Monitoramento**: SEMS Portal, dashboards (Node-RED / Blynk - planejados)  
+- **Documentação e Versionamento**: GitHub  
+- **Apresentação**: Vídeo Pitch + PDF  
+
 ---
-## 🧠 Conexão com a Disciplina
-O projeto aplica os conceitos estudados, como:
-- Energias renováveis (painéis solares e baterias)
-- Automação e lógica com Arduino
-- Sustentabilidade e eficiência energética
-- Internet das Coisas (IoT) com monitoramento remoto
+
+## 📝 Documentação  
+
+📄 **PDF:** [`SPRINT.pdf`](./SPRINT.pdf) *(anexo)*  
+
+📷 **Imagens do projeto**:  
+- ![Diagrama da Escola Automatizada](./sprint_foto.png)  
+- ![Slide de Apresentação](./imagens/slide_energias_renovaveis.pdf)  
+
+💻 **Código e lógica:** Capturas de tela da simulação no Wokwi *(anexadas)*  
+
 ---
-> “Tecnologia e consciência ambiental para transformar a educação pública.”
+
+## 🎥 Vídeo Pitch  
+📺 *Disponível no YouTube (modo não listado)*  
+🔗 Link: *(Adicionar aqui quando disponível)*
+
+---
+
+## 📚 Conexão com a Disciplina  
+
+Este projeto aplica os principais conceitos abordados na disciplina:  
+- Energias renováveis (uso de energia solar e baterias)  
+- Automação residencial e educacional com Arduino  
+- Eficiência energética e sustentabilidade  
+- Internet das Coisas (IoT) com monitoramento remoto e controle via dashboards  
+
+---
+
+> **“Tecnologia e consciência ambiental para transformar a educação pública.”**

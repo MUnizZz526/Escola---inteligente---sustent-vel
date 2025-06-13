@@ -65,7 +65,7 @@ Um protótipo da automação foi desenvolvido e testado com **Arduino Uno** no s
 
 ## 🎥 Vídeo Pitch  
 📺 *Disponível no YouTube (modo não listado)*  
-🔗 Link: *(Adicionar aqui quando disponível)*
+🔗 Link: *https://youtu.be/rW-RNfPbBXY*
 
 ---
 
